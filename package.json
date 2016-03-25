@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-es2015-modules-amd-simple",
-  "version": "6.6.5",
+  "version": "6.6.7",
   "description": "",
   "repository": "https://github.com/zship/babel-plugin-transform-es2015-modules-amd-simple",
   "license": "MIT",
